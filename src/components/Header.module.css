@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--gray-700);
+  width: 100%;
+  height: 12.5rem;
+  color: #fff;
+}
+
+h1 {
+  font-weight: bold;
+  color: #5E60CE;
+  font-size: 48px;
+}
+
+span {
+  color: #4EA8DE;
+}
